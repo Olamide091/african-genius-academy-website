@@ -606,3 +606,14 @@ footer{background:#060f0a;padding:64px 5% 0}
   .gallery-grid{grid-template-columns:1fr}
   .leader-av{width:100px;height:100px;font-size:2rem}
 }
+.map-visual {
+  width: 100%;
+  height: 450px; 
+}
+
+.map-visual iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+  display: block;
+}
